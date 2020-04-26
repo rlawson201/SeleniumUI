@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61169" started-at="2020-04-16T10:12:13 EDT" finished-at="2020-04-16T10:13:14 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61169" started-at="2020-04-16T10:12:13 EDT" finished-at="2020-04-16T10:13:14 EDT">
+      <class name="Browser.CheckboxesTest">
+        <test-method status="PASS" signature="check()[pri:0, instance:Browser.CheckboxesTest@29ca901e]" name="check" duration-ms="20112" started-at="2020-04-16T10:12:13 EDT" finished-at="2020-04-16T10:12:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- Browser.CheckboxesTest -->
+      <class name="Browser.MarsairTest">
+        <test-method status="PASS" signature="interview()[pri:0, instance:Browser.MarsairTest@5649fd9b]" name="interview" duration-ms="6938" started-at="2020-04-16T10:12:33 EDT" finished-at="2020-04-16T10:12:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- interview -->
+      </class> <!-- Browser.MarsairTest -->
+      <class name="Browser.ExerTest">
+        <test-method status="PASS" signature="alerts()[pri:0, instance:Browser.ExerTest@5025a98f]" name="alerts" duration-ms="12136" started-at="2020-04-16T10:13:02 EDT" finished-at="2020-04-16T10:13:14 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerts -->
+      </class> <!-- Browser.ExerTest -->
+      <class name="Browser.CalendarTest">
+        <test-method status="PASS" signature="days()[pri:0, instance:Browser.CalendarTest@6adede5]" name="days" duration-ms="6896" started-at="2020-04-16T10:12:40 EDT" finished-at="2020-04-16T10:12:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- days -->
+      </class> <!-- Browser.CalendarTest -->
+      <class name="Browser.AutoSuggestiveTest">
+        <test-method status="PASS" signature="autoSugg()[pri:0, instance:Browser.AutoSuggestiveTest@2d928643]" name="autoSugg" duration-ms="15039" started-at="2020-04-16T10:12:47 EDT" finished-at="2020-04-16T10:13:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoSugg -->
+      </class> <!-- Browser.AutoSuggestiveTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

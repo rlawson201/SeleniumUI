@@ -9,7 +9,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class addCartTest {
+public class AddCartTest {
 
 	@Test
 	public void addVeggies() throws IOException, InterruptedException {

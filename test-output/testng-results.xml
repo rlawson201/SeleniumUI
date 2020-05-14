@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="130968" started-at="2020-04-25T15:31:56 EDT" finished-at="2020-04-25T15:34:07 EDT">
+  <suite name="Default suite" duration-ms="81863" started-at="2020-05-14T13:00:15 EDT" finished-at="2020-05-14T13:01:37 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="130968" started-at="2020-04-25T15:31:56 EDT" finished-at="2020-04-25T15:34:07 EDT">
-      <class name="websites.MarsairTest">
-        <test-method status="PASS" signature="interview()[pri:0, instance:websites.MarsairTest@26aa12dd]" name="interview" duration-ms="130869" started-at="2020-04-25T15:31:56 EDT" finished-at="2020-04-25T15:34:07 EDT">
+    <test name="Default test" duration-ms="81863" started-at="2020-05-14T13:00:15 EDT" finished-at="2020-05-14T13:01:37 EDT">
+      <class name="websites.AutoSuggestiveTest">
+        <test-method status="PASS" signature="autoSugg()[pri:0, instance:websites.AutoSuggestiveTest@26aa12dd]" name="autoSugg" duration-ms="81734" started-at="2020-05-14T13:00:15 EDT" finished-at="2020-05-14T13:01:37 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- interview -->
-      </class> <!-- websites.MarsairTest -->
+        </test-method> <!-- autoSugg -->
+      </class> <!-- websites.AutoSuggestiveTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
